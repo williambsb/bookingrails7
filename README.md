@@ -29,4 +29,15 @@ Este é meu primeiro projeto publico estou adaptando alguns tutoriais que assist
 
 * ...
 
+# Record Log do Desenvolvimento 
+
+-- 12/maio 
+branch : customer_model 
+
+É criado o model Customer com os dados basicos 
+Editado o arquivo models/customer.rb para incluir as validacoes de 
+      * Campos obrigatorios
+      * Unicidade do email 
+
+
 
