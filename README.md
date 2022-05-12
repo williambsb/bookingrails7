@@ -1,24 +1,32 @@
-# README
+# SIMPLE BOOKING Application with Rails 7 and Stripe
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Este é meu primeiro projeto publico estou adaptando alguns tutoriais que assisti e versionando para o POrtugues (link dos créditos ao final ) 
 
-Things you may want to cover:
+# Stack do Projeto 
 
-* Ruby version
+* Ruby version : 3.0.3
 
-* System dependencies
+* System dependencies : 
+    * Bootstrap 5
+    * popperjs/core 
 
 * Configuration
 
 * Database creation
+    * Utilizado Padrào Rails : Sqlite
 
 * Database initialization
+    * Seed para carregamento de registros exemplos
 
 * How to run the test suite
+    * >> Pendente de Descrever 
 
 * Services (job queues, cache servers, search engines, etc.)
+    * Nenhum Servico Adiconal utilizado ate o momento 
 
 * Deployment instructions
+    * Execute com rails s -p <port> -b 0.0.0.0
 
 * ...
+
+
