@@ -29,7 +29,7 @@ Este é meu primeiro projeto publico estou adaptando alguns tutoriais que assist
 
 * ...
 
-# Record Log do Desenvolvimento 
+<span style="color: red; font-size: 25px"># Record Log do Desenvolvimento</span> 
 
 -- 12/maio 
 branch : customer_model 

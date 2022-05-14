@@ -1,4 +1,6 @@
-class Workshop < ApplicationRecord
+class Workshop < ApplicationRecord 
+     has_many :bookings 
+     has_many :customers,  through: :bookings   
    validates :name, :description, presence: true
    validates :start_data, :end_date, :start_time, :end_time, 
               presence: true 
